@@ -1,0 +1,127 @@
+[
+	{
+		"id": "1059121",
+		"description": "Welcome to the Village Hidden in the Leaves, where deadly serious Ninja roam the landscape and the seriously mischievous Naruto Uzumaki causes trouble everywhere he goes. But when he steals the ancient scroll of sealing, he unleashes a rare power rarely seen in a 12-year-old boy!",
+		"image": "https://image.tmdb.org/t/p/w500/7xOP0rKDniTZKEaRM7seKfY9SG8.jpg",
+		"number": 1,
+		"title": "Enter: Naruto Uzumaki!",
+		"airDateRelative": "about 22 years",
+		"airDateIso": "2002-10-03T00:00:00.000Z",
+		"updatedAt": 1033603200000,
+		"rating": 6.923,
+		"season": {
+			"name": "Season 1",
+			"number": 1,
+			"aired": {
+				"relative": "about 22 years",
+				"iso": "2002-10-03T00:00:00.000Z",
+				"unix": 1033603200000,
+				"formatted": "03 October, 2002"
+			},
+			"description": "Deep within the Hidden Leaf Village, young ninja Naruto Uzumaki carries sealed inside him the Nine-Tailed Fox Spirit, which once almost destroyed the village. Always an outcast because of his secret, now Naruto battles alongside his teammates Sasuke and Sakura to prove to himself and everyone else that he's the greatest ninja ever. But he's got a long list of challenges to face before he gets there!",
+			"image": "https://image.tmdb.org/t/p/w500/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",
+			"totalEpisodes": 52,
+			"rating": 6.7
+		}
+	},
+	{
+		"id": "1059122",
+		"description": "Naruto finally graduates from the Ninja Academy and claims to know it all. Well, at least that what he tells Konohamaru, the Village elder's pint-size grandson. Much to the dismay of Ebisu, Konohamaru's teacher and mentor, Naruto teaches him the hormonally lethal \"Sexy Jutsu!\"",
+		"image": "https://image.tmdb.org/t/p/w500/5e0sxZupgkWNRvEnSn8CtDaTNck.jpg",
+		"number": 2,
+		"title": "My Name Is Konohamaru!",
+		"airDateRelative": "about 22 years",
+		"airDateIso": "2002-10-10T00:00:00.000Z",
+		"updatedAt": 1034208000000,
+		"rating": 6.579,
+		"season": {
+			"name": "Season 1",
+			"number": 1,
+			"aired": {
+				"relative": "about 22 years",
+				"iso": "2002-10-03T00:00:00.000Z",
+				"unix": 1033603200000,
+				"formatted": "03 October, 2002"
+			},
+			"description": "Deep within the Hidden Leaf Village, young ninja Naruto Uzumaki carries sealed inside him the Nine-Tailed Fox Spirit, which once almost destroyed the village. Always an outcast because of his secret, now Naruto battles alongside his teammates Sasuke and Sakura to prove to himself and everyone else that he's the greatest ninja ever. But he's got a long list of challenges to face before he gets there!",
+			"image": "https://image.tmdb.org/t/p/w500/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",
+			"totalEpisodes": 52,
+			"rating": 6.7
+		}
+	},
+	{
+		"id": "1059123",
+		"description": "On the way to becoming a ninja, Naruto must team up with his classmates, the pretty Sakura and the pretty serious Sasuke...",
+		"image": "https://image.tmdb.org/t/p/w500/AnET8GFEtsVkhZCvNDYdo1OhFUZ.jpg",
+		"number": 3,
+		"title": "Sasuke and Sakura: Friends or Foes?",
+		"airDateRelative": "about 22 years",
+		"airDateIso": "2002-10-17T00:00:00.000Z",
+		"updatedAt": 1034812800000,
+		"rating": 7.429,
+		"season": {
+			"name": "Season 1",
+			"number": 1,
+			"aired": {
+				"relative": "about 22 years",
+				"iso": "2002-10-03T00:00:00.000Z",
+				"unix": 1033603200000,
+				"formatted": "03 October, 2002"
+			},
+			"description": "Deep within the Hidden Leaf Village, young ninja Naruto Uzumaki carries sealed inside him the Nine-Tailed Fox Spirit, which once almost destroyed the village. Always an outcast because of his secret, now Naruto battles alongside his teammates Sasuke and Sakura to prove to himself and everyone else that he's the greatest ninja ever. But he's got a long list of challenges to face before he gets there!",
+			"image": "https://image.tmdb.org/t/p/w500/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",
+			"totalEpisodes": 52,
+			"rating": 6.7
+		}
+	},
+	{
+		"id": "1059124",
+		"description": "Now that Naruto, Sasuke, and Sakura are a team, they meet with their sensei, the enigmatic and aloof Kakashi.",
+		"image": "https://image.tmdb.org/t/p/w500/754Qrt6RuRblgazi8LiZ26AkmzK.jpg",
+		"number": 4,
+		"title": "Pass or Fail: Survival Test",
+		"airDateRelative": "about 22 years",
+		"airDateIso": "2002-10-24T00:00:00.000Z",
+		"updatedAt": 1035417600000,
+		"rating": 7.8,
+		"season": {
+			"name": "Season 1",
+			"number": 1,
+			"aired": {
+				"relative": "about 22 years",
+				"iso": "2002-10-03T00:00:00.000Z",
+				"unix": 1033603200000,
+				"formatted": "03 October, 2002"
+			},
+			"description": "Deep within the Hidden Leaf Village, young ninja Naruto Uzumaki carries sealed inside him the Nine-Tailed Fox Spirit, which once almost destroyed the village. Always an outcast because of his secret, now Naruto battles alongside his teammates Sasuke and Sakura to prove to himself and everyone else that he's the greatest ninja ever. But he's got a long list of challenges to face before he gets there!",
+			"image": "https://image.tmdb.org/t/p/w500/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",
+			"totalEpisodes": 52,
+			"rating": 6.7
+		}
+	},
+	{
+		"id": "1059125",
+		"description": "With the threat of failure hanging over their heads, Naruto, Sasuke and Sakura try everything they know to pass the grueling survival test.",
+		"image": "https://image.tmdb.org/t/p/w500/6DUDSdvZIq4ebWB56EXPWNIt7Yp.jpg",
+		"number": 5,
+		"title": "You Failed! Kakashi's Final Decision",
+		"airDateRelative": "about 22 years",
+		"airDateIso": "2002-10-31T00:00:00.000Z",
+		"updatedAt": 1036022400000,
+		"rating": 7.8,
+		"season": {
+			"name": "Season 1",
+			"number": 1,
+			"aired": {
+				"relative": "about 22 years",
+				"iso": "2002-10-03T00:00:00.000Z",
+				"unix": 1033603200000,
+				"formatted": "03 October, 2002"
+			},
+			"description": "Deep within the Hidden Leaf Village, young ninja Naruto Uzumaki carries sealed inside him the Nine-Tailed Fox Spirit, which once almost destroyed the village. Always an outcast because of his secret, now Naruto battles alongside his teammates Sasuke and Sakura to prove to himself and everyone else that he's the greatest ninja ever. But he's got a long list of challenges to face before he gets there!",
+			"image": "https://image.tmdb.org/t/p/w500/fmps15jQsy74PjxnaxxeVEyuNnX.jpg",
+			"totalEpisodes": 52,
+			"rating": 6.7
+		}
+	}
+]

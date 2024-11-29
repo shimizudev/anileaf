@@ -1,0 +1,67 @@
+{
+	"$schema": "https://biomejs.dev/schemas/1.9.4/schema.json",
+	"vcs": {
+		"enabled": true,
+		"clientKind": "git",
+		"useIgnoreFile": true
+	},
+	"files": {
+		"ignoreUnknown": false,
+		"ignore": ["node_modules", "dist", "build", ".git"]
+	},
+	"formatter": {
+		"enabled": true,
+		"indentStyle": "tab",
+		"indentWidth": 2,
+		"lineWidth": 100,
+		"lineEnding": "crlf",
+		"formatWithErrors": false
+	},
+	"organizeImports": {
+		"enabled": true
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"recommended": true,
+			"complexity": {
+				"noForEach": "error",
+				"useOptionalChain": "error",
+				"noStaticOnlyClass": "error",
+				"noUselessConstructor": "error",
+				"noUselessFragments": "error"
+			},
+			"correctness": {
+				"noUnreachable": "error",
+				"noUnusedVariables": "error",
+				"useExhaustiveDependencies": "error",
+				"noUndeclaredVariables": "error"
+			},
+			"performance": {
+				"noDelete": "error",
+				"noAccumulatingSpread": "error"
+			},
+			"style": {
+				"noNonNullAssertion": "error",
+				"useConst": "error",
+				"useTemplate": "error",
+				"noParameterAssign": "error",
+				"useDefaultParameterLast": "error",
+				"useSingleVarDeclarator": "error"
+			},
+			"suspicious": {
+				"noConsoleLog": "error",
+				"noDebugger": "error",
+				"noEmptyInterface": "error",
+				"noExplicitAny": "error",
+				"noRedundantUseStrict": "error"
+			}
+		}
+	},
+	"javascript": {
+		"formatter": {
+			"quoteStyle": "single",
+			"semicolons": "always"
+		}
+	}
+}
